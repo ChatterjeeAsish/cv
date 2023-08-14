@@ -94,6 +94,10 @@ body {
     color: #fff;
     font-weight: 300;
 }
+.contactInfo ul li a {
+    color: #fff;
+    font-weight: 300;
+}
 .contactInfo.education li {
     margin-bottom: 15px;
 }
